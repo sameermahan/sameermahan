@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👩‍💻 Introducing Myself
 
-![Banner](your-banner-image-url-here)
+![Banner](https://github.com/user-attachments/assets/923aab43-b56c-495b-a937-3a5d7bec65b8)
 
 Hello, I'm Sameer. I'm a Data Analyst with expertise in data analysis, reporting, query optimization, database design, and data modelling.
 
@@ -22,10 +22,10 @@ Welcome to my portfolio, where I showcase my [projects](your-projects-link-here)
 
 - **Languages:** SQL, Python
 - **Databases:** Google BigQuery, PostgreSQL, MySQL
-- **Visualization:** Tableau, Looker Studio
+- **Visualization:** Tableau, Looker Studio, PowerBI
 
 ---
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](your-linkedin-url-here)
+- [LinkedIn](www.linkedin.com/in/sameermahan)
