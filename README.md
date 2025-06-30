@@ -1,4 +1,4 @@
-# 👩‍💻 Introducing Myself
+# 👨🏽‍💻Introducing Myself
 
 ![Banner](https://github.com/user-attachments/assets/923aab43-b56c-495b-a937-3a5d7bec65b8)
 
