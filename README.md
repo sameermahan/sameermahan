@@ -13,7 +13,7 @@ Hello, I'm Sameer. I'm a Data Analyst with expertise in data analysis, reporting
 
 ## 📂 Projects
 
-Welcome to my portfolio, where I showcase my [projects](your-projects-link-here).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/sameermahan/sameer-portfolio/).
 
 ---
 
